@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.js","mappings":"AAAAA,QAAQC,IAAI,SACZD,QAAQC,IAAI","sources":["webpack://webflow_dev_template/./src/index.ts"],"sourcesContent":["console.log('hello');\nconsole.log('hi');\n"],"names":["console","log"],"sourceRoot":""}
+{"version":3,"file":"bundle.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack://webflow_dev_template/./src/index.ts"],"sourcesContent":["console.log('Flow Phantom');\n"],"names":["console","log"],"sourceRoot":""}
